@@ -1,8 +1,7 @@
 # ArduinOS
-A little os for arduinos controlled by serial
+A little serial terminal for Arduinos (idk if it would work with anything else)
 
+wtf who uses putty anymore /dev/ttyS0 FTW
 
-I recommend using putty as serial client
+this project will probably never be done since i'm a fucking lazy ass
 
-
-I'll make this program/"os" when i get my arduino uno 
